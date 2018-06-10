@@ -1,2 +1,5 @@
-# Loadenv_
-Loads environment variables into your project env.
+# Utilities
+Basic reusable zero-dependency utilities for your node projects
+
+### Loadenv_
+Loads environment variables into project env.
