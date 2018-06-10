@@ -1,0 +1,23 @@
+{
+  "name": "utilities",
+  "version": "1.0.0",
+  "description": "Basic reusable zero-dependency utilities for your node projects",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "node tests/**/*.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andela-fabolaji/utilities.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andela-fabolaji/utilities/issues"
+  },
+  "homepage": "https://github.com/andela-fabolaji/utilities#readme"
+}

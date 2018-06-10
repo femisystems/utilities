@@ -1,5 +1,5 @@
 const assert = require('assert');
-const loadenv = require('./');
+const loadenv = require(`${process.cwd()}/lib/loadenv_`);
 
 loadenv.init(`${__dirname}/test.env`);
 
