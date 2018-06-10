@@ -1,0 +1,1 @@
+module.exports.loadEnv = require('./lib/loadenv');
